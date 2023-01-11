@@ -4,6 +4,7 @@ a small horribly-written utility for quickly making desktop-entries on gnome sys
 
 # Use
 - typically needs sudo permissions 'cause it defaults to /usr/shared/applications for it's write location
+
 the executable needs 4 arguments with an optional 5th
 
 
